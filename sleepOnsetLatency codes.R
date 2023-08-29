@@ -1,3 +1,6 @@
+File Name: SleepOnsetLatency.R
+File created date: summer 2023
+
 ###############preparation and setting ########################################
 
 # Install and load the stringr package
